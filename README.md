@@ -57,7 +57,9 @@ Why Choose Us section highlights:
 Footer section with additional links.
 # 📞 Contact Page
 Contains office address and contact details.
+
 Section to explore job opportunities.
+
 Footer navigation links.
 # 📅 Doctor Appointment Page
 Displays detailed information about the selected doctor:
@@ -68,23 +70,32 @@ Profile picture, qualification, experience, and a brief description.
 **Online payment options**: Cash, Stripe, or Razorpay.
 
 Related doctors section at the bottom.
+
 Users need to create an account or log in before booking an appointment.
 # 👤 User Profile
 Accessible after login.
+
 Users can view and edit their profile:
+
 Upload profile picture.
+
 Update name, email, address, gender, and birthday.
+
 View list of upcoming and past appointments.
+
 Logout option available.
 # 🗄️ Admin Panel
 **Dashboard:**
 
 **Displays statistics:** Number of doctors, appointments, patients, and latest bookings.
 Option to cancel bookings if needed.
+
 **Add Doctor**:
 Form to add a new doctor profile (image, specialty, email, password, degree, address, experience, fees, description).
+
 **Doctor List:**
 View all registered doctors with options to edit or delete profiles.
+
 **Appointments:**
 List of all appointments including patient name, age, date, time, doctor name, fees.
 Admin actions: Cancel or Mark as Completed.
@@ -100,6 +111,12 @@ Actions: Mark appointment as completed or Cancel appointment.
 Doctors can update their profile information, including description, fees, address, and availability status.
 # 💳 Payment Integration
 Supports multiple payment methods:
+
 Cash Payment
+
 Razorpay Integration
+
 Ensures a secure and smooth payment experience for users.
+# 🌟 Acknowledgements
+Thanks to the developers and contributors of MongoDB, Express.js, React.js, Node.js, Stripe, and Razorpay for their fantastic tools and libraries.
+
