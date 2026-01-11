@@ -35,8 +35,11 @@ Add new doctors (image, specialty, degree, experience, address, fees, etc.).
 View and manage all appointments (cancel or mark as completed).
 # 🏠 Home Page
 Features a user-friendly layout where users can:
+
 Search for doctors based on specialties.
+
 View top doctors and their profiles.
+
 Explore additional sections: About Us, Delivery Information, Privacy Policy, and Get in Touch.
 Footer includes navigation links: Home, About Us, Delivery Info, Privacy Policy, Contact Us.
 # 🩺 All Doctors Page
@@ -47,7 +50,9 @@ Clicking on a doctor's profile redirects to the Doctor Appointment Page.
 Provides information about Appointy’s vision and mission.
 Why Choose Us section highlights:
 **Efficiency:** Streamlined appointment process.
-**Convenience: **Online booking and payment.
+
+**Convenience:** Online booking and payment.
+
 **Personalization:** Tailored experience based on user preferences.
 Footer section with additional links.
 # 📞 Contact Page
@@ -57,8 +62,11 @@ Footer navigation links.
 # 📅 Doctor Appointment Page
 Displays detailed information about the selected doctor:
 Profile picture, qualification, experience, and a brief description.
-Appointment booking form: Choose date, time, and payment method.
-Online payment options: Cash, Stripe, or Razorpay.
+
+**Appointment booking form**: Choose date, time, and payment method.
+
+**Online payment options**: Cash, Stripe, or Razorpay.
+
 Related doctors section at the bottom.
 Users need to create an account or log in before booking an appointment.
 # 👤 User Profile
@@ -70,9 +78,10 @@ View list of upcoming and past appointments.
 Logout option available.
 # 🗄️ Admin Panel
 **Dashboard:**
+
 **Displays statistics:** Number of doctors, appointments, patients, and latest bookings.
 Option to cancel bookings if needed.
-****Add Doctor:
+**Add Doctor**:
 Form to add a new doctor profile (image, specialty, email, password, degree, address, experience, fees, description).
 **Doctor List:**
 View all registered doctors with options to edit or delete profiles.
@@ -82,9 +91,11 @@ Admin actions: Cancel or Mark as Completed.
 # 🩺 Doctor Dashboard
 **Earnings Overview:**
 Total earnings from completed appointments.
+
 **Appointments List:**
 View detailed list of patient appointments (name, age, date, time, payment mode, status).
 Actions: Mark appointment as completed or Cancel appointment.
+
 **Profile Management:**
 Doctors can update their profile information, including description, fees, address, and availability status.
 # 💳 Payment Integration
